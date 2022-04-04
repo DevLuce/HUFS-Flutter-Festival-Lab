@@ -2,7 +2,8 @@
 
 ## Description
 
-한국외국어대학교에서 진행하는 Flutter Festival 의 '플러터로 힙하게 개발하기' 세션의 실습 시작 코드입니다.
+한국외국어대학교에서 진행하는 Flutter Festival 의 '플러터로 힙하게 개발하기' 세션의 실습 시작 코드입니다. <br>
+[발표 자료 링크](https://docs.google.com/presentation/d/1sSnkkNylgfvsPQ88YDvf5gr5MgbkUAZZeVd4hUTkPrQ/edit?usp=sharing)
 
 ## Our Goal
 
